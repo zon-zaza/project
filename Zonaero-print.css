@@ -6,12 +6,18 @@ body {
   color: #333;
 }
 
+
 header {
   background: #0077cc;
   color: white;
   padding: 20px;
   text-align: center;
 }
+.gold {
+    color: gold;
+}
+
+
 
 header nav a {
   margin: 0 10px;
@@ -19,16 +25,19 @@ header nav a {
   text-decoration: none;
 }
 
+
 #hero {
   background: #e0f7fa;
   text-align: center;
   padding: 50px 20px;
 }
 
+
 #projects {
   padding: 30px;
   text-align: center;
 }
+
 
 .project-card {
   background: white;
@@ -44,6 +53,7 @@ header nav a {
   width: 100%;
   border-radius: 5px;
 }
+
 
 footer {
   text-align: center;
